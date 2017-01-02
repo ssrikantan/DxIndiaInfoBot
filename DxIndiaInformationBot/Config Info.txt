@@ -1,0 +1,12 @@
+Bot Name : Dx India Information Bot
+Bot Handle: DxIndiaInformationBot
+App ID:  d1c7d5e7-343a-4253-946d-bb6cecc53ea3
+aPP pASSWORD: zJKmFPQidm1dZ1unK7yyFvn
+
+
+https://dxindiainformationbot.azurewebsites.net/api/messages
+
+
+
+https://api.projectoxford.ai/luis/v1/application?id=b519ad78-a9b9-4708-b6bf-aa6f8d332259&subscription-key=84f8545836a449d0bb09b2aaf68ab417
+https://telemetrysearch.search.windows.net/indexes/blueprint-target-index/docs?api-version=2015-02-28
